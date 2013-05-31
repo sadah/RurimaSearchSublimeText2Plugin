@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "Rurima Search",
+    "mnemonic": "R",
+    "id": "tools",
+    "children":
+    [
+      { "command": "rurima_search", "caption": "Rurima Search" }
+    ]
+  }
+]
