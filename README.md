@@ -8,9 +8,9 @@ If you have any problems, then please register an issue or send pull request.
 
  - https://github.com/sadah/RurimaSearchSublimeText2Plugin/
 
-** Remarks: There is no relationship between [Rurima Project](http://doc.ruby-lang.org/ja/). This is third party plugin. **
+**Remarks: There is no relationship between [Rurima Project](http://doc.ruby-lang.org/ja/). This is third party plugin.**
 
-** Thanks: [Rurima](http://doc.ruby-lang.org/ja/) is very usefull and great japanese Ruby reference. **
+**Thanks: [Rurima](http://doc.ruby-lang.org/ja/) is very usefull and great japanese Ruby reference.**
 
 ## Install
 
