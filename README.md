@@ -1,8 +1,8 @@
 # Rurima Search Sublime Text2 Plugin
 
-[Rurima](http://doc.ruby-lang.org/ja/) is Ruby reference manual in Japanese.
+[るりま(Rurima)](http://doc.ruby-lang.org/ja/) is Ruby reference manual in Japanese.
 
-This plugin is able to search Ruby reference from Sublime Text2.
+This plugin is able to search Japanese Ruby reference from Sublime Text2.
 
 If you have any problems, then please register an issue or send pull request.
 
@@ -10,7 +10,7 @@ If you have any problems, then please register an issue or send pull request.
 
 **Remarks: There is no relationship between [Rurima Project](http://doc.ruby-lang.org/ja/). This is third party plugin.**
 
-**Thanks: [Rurima](http://doc.ruby-lang.org/ja/) is very usefull and great japanese Ruby reference.**
+**Thanks: [るりま(Rurima)](http://doc.ruby-lang.org/ja/) is very usefull and great japanese Ruby reference.**
 
 ## Install
 
